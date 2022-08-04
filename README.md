@@ -1,7 +1,8 @@
-# Food-Order-Website
+# Food-Order-Website Using Php and Mysql
 
-# Restaurant Food Order Theme
+# Restaurant Food Order Theme and also managed admin panel
 This is a Restaurant Theme Website Template, designed using html and css.
+# Track Your order from Admin panel.
 
 ## Technologies Used
 1. HTML5
